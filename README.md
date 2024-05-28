@@ -51,5 +51,5 @@ Follow these instructions to get a copy of the project up and running on your lo
     - Click on the number buttons to enter numbers.
     - Click on the operator buttons (`+`, `-`, `*`, `/`) to perform arithmetic operations.
     - Click the `=` button to get the result.
-    - Use the `C` button to clear the display.
-    - Use the `←` button to delete the last digit entered.
+    - Use the `del` button to clear the display.
+    - Use the (-) for negative numbers.
